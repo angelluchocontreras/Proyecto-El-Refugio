@@ -1,0 +1,8 @@
+main{
+    .links-utiles{
+        .politica-de-privacidad{
+            @extend .aviso-legal;
+            
+        }
+    }
+}

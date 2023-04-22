@@ -1,0 +1,11 @@
+main{
+    .links-utiles{
+        .terminos-y-condiciones-web{
+            h1{
+                font-size: 2rem;
+                
+            }
+            @extend .aviso-legal
+        }
+    }
+}

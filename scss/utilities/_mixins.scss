@@ -1,0 +1,35 @@
+@mixin bannerv2 ($direction, $align, $magin-bottom, $radius){
+    display: flex;
+    flex-direction: $direction;
+    align-items: $align; 
+    margin-bottom: $magin-bottom ;
+    border-radius: $radius ;}
+
+
+    @mixin h1{
+      font-size: 2.5rem;
+      font-weight: bold;
+      margin-bottom: 1rem;
+    }
+    @mixin h2{
+        font-size: 1.7rem;
+        font-weight: bold;
+        margin-top: 3rem;
+        margin-bottom: 1rem;
+      }
+      @mixin p{
+        font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+
+// row
+// center
+// 50px
+// 20px
+// // banner         h2{
+//     font-size: 24px;
+//     font-weight: bold;
+//     margin-bottom: 10px;
+// }
