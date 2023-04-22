@@ -13,7 +13,12 @@ Tecnologías utilizadas
 HTML5, CSS3  para el desarrollo del sitio web.
 GitHub Pages para la publicación y alojamiento del sitio web.
 Instalación
-pagina de github: https://angelluchocontreras.github.io/protecto-el-refugio/index.html
+
+Repositorio:   https://github.com/angelluchocontreras/proyecto-el-refugio                                                                             
+Deploy: https://angelluchocontreras.github.io/proyecto-el-refugio/index.html                                                                                        
+Figma:  https://www.figma.com/file/rPRfs8WxfmDkvqcZ4qjKkI/Untitled?node-id=1%3A14&t=r91G4BqS1O46CSiE-1               
+
+  Comentario:  el figma la primera linea es la orginal y la otra columna  estan los distintos diseños del index que se me ocurria con el transcurso de los dias,gracias por tomarse su tiempo a corregir mis trabajos anteriores y las opiniones de como mejorarlo,un gusto
 
 Autor
 Angel Contreras
